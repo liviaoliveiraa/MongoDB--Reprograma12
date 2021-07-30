@@ -1,0 +1,125 @@
+
+{ "movies":[
+    {
+        "name": "The Shawshank Redemption",
+        "genre": "drama",
+        "writers": "Stephen King",
+        "imdb rating": 9.3
+    },
+    {
+        "name": "The Godfather",
+        "genre": "crime",
+        "writers": "Al Pacino",
+        "imdb rating": 9.2
+    },
+    {
+        "name": "The Godfather II",
+        "genre": "crime",
+        "writers": "Francis Ford Coppola",
+        "imdb rating": 9.0
+    },
+    {
+        "name": "The Dark Knight",
+        "genre": "action",
+        "writers": "Jonathan Nolan",
+        "imdb rating": 9.0
+    },
+    {
+        "name": "12 Angry Men",
+        "genre": "crime",
+        "writers": "Reginald Rose",
+        "imdb rating": 9.0
+    },
+    {
+        "name": "Schindler's List",
+        "genre": "biography",
+        "writers": "Thomas Keneally",
+        "imdb rating": 8.9
+    },
+    {
+        "name": "The Lord of the Rings: The Return of the King",
+        "genre": "action",
+        "writers": "J.R.R. Tolkien",
+        "imdb rating": 8.9
+    },
+    {
+        "name": "Pulp Fiction",
+        "genre": "crime",
+        "writers": "Quentin Tarantino",
+        "imdb rating": 8.9
+    },
+    {
+        "name": "Il buono, il brutto, il cattivo",
+        "genre": "western",
+        "writers": "Luciano Vincenzoni",
+        "imdb rating": 8.8
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "genre": "action",
+        "writers": "J.R.R. Tolkien",
+        "imdb rating": 8.8
+    },
+    {
+        "name": "Fight Club",
+        "genre": "drama",
+        "writers": "Chuck Palahniuk",
+        "imdb rating": 8.8
+    },
+    {
+        "name": "Forrest Gump",
+        "genre": "drama",
+        "writers": "Winston Groom",
+        "imdb rating": 8.8
+    },
+    {
+        "name": "Inception",
+        "genre": "action",
+        "writers": "Christopher Nolan",
+        "imdb rating": 8.8
+    },
+    {
+        "name": "The Lord of the Rings: The Two Towers",
+        "genre": "action",
+        "writers": "J.R.R. Tolkien",
+        "imdb rating": 8.7
+    },
+    {
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "genre": "action",
+        "writers": "Leigh Brackett",
+        "imdb rating": 8.7
+    },
+    {
+        "name": "The Matrix",
+        "genre": "action",
+        "writers": "Lilly Wachowski",
+        "imdb rating": 8.7
+    },
+    {
+        "name": "Goodfellas",
+        "genre": "biography",
+        "writers": "Nicholas Pileggi",
+        "imdb rating": 8.7
+    },
+    {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "genre": "drama",
+        "writers": "Lawrence Hauben",
+        "imdb rating": 8.7
+    },
+    {
+        "name": "Shichinin no samurai",
+        "genre": "action",
+        "writers": "Akira Kurosawa",
+        "imdb rating": 8.6
+    },
+    {
+        "name": "Se7en",
+        "genre": "crime",
+        "writers": "Andrew Kevin Walker",
+        "imdb rating": 8.6
+    }
+
+
+]}
