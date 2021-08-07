@@ -15,7 +15,7 @@
     db.getCollection('movies').update({"name" : "The Godfather II"}, {$set: {"name": "The Godfather part II"}})
 ---
 ### Exclusão de documento
-    db.getCollection('movies').remove({genre: {$ne: "western"}})
+    db.getCollection('movies').remove({genre: {$eq: "western"}})
 ---
 ### Consulta com projeção
     db.getCollection('movies').find({genre: 'action' }).sort({'imdb rating':-1})
